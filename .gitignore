@@ -46,3 +46,10 @@
 
 # Embedded web-server pid file
 /.web-server-pid
+
+# Symfony FrameworkBundle
+/.env
+/.env.local
+/.env.local.php
+/.env.*.local
+/public/bundles/
